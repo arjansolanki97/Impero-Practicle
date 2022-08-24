@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Impero Practicla</string>
+
+    <string name="internal_server_error">Internal server error</string>
+    <string name="something_went_wrong">Some thing went wrong, Please try again!</string>
+    <string name="url_not_found">URL not found</string>
+    <string name="unauthorized">Given authorization token is invalid, please login again</string>
+    <string name="please_check_your_internet_connection">Please check your internet connection</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
