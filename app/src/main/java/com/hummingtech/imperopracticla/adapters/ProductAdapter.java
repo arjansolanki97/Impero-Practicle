@@ -60,4 +60,6 @@ public class ProductAdapter extends RecyclerView.Adapter<ProductAdapter.ViewHold
             Glide.with(activity).load(productModel.getImageName()).into(binding.ivImage);
         }
     }
+
+
 }

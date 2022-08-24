@@ -17,6 +17,8 @@ public class SubCategoryModel {
     @Expose
     private List<ProductModel> product = null;
 
+    int PageIndex=1;
+
     public Integer getId() {
         return id;
     }
@@ -41,4 +43,11 @@ public class SubCategoryModel {
         this.product = product;
     }
 
+    public int getPageIndex() {
+        return PageIndex;
+    }
+
+    public void setPageIndex(int pageIndex) {
+        PageIndex = pageIndex;
+    }
 }
